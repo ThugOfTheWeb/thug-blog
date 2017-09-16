@@ -1,0 +1,7 @@
+{
+  "name": "thug-blog",
+  "short_name": "thug-blog",
+  "description": "A simple blog",
+  "start_url": "/",
+  "display": "standalone"
+}
